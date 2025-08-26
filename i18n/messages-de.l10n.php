@@ -1,0 +1,2 @@
+<?php
+return ['domain'=>NULL,'plural-forms'=>NULL,'language'=>'en','project-id-version'=>'Demo 1.0','pot-creation-date'=>'2025-08-26T21:01:24+00:00','po-revision-date'=>'2025-08-26T21:01:24+00:00','messages'=>['app.title'=>'app.titel','nav.home'=>'nav.startseite','nav.shop'=>'nav.shop','cart.empty'=>'warenkorb.leer','checkout.title'=>'kasse.titel','button.add_to_cart'=>'button.add_to_cart','button.submit_order'=>'button.submit_order','msg.thanks'=>'msg.danke']];
