@@ -1,0 +1,9 @@
+key,Wert
+app.title,Willkommen in unserem Shop
+nav.home,Startseite
+nav.shop,Shop
+cart.empty,Dein Warenkorb ist leer
+checkout.title,Sicherer Checkout
+button.add_to_cart,In den Warenkorb legen
+button.submit_order,Bestellung abschicken
+msg.thanks,Danke für deinen Einkauf
