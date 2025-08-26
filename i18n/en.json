@@ -1,5 +1,10 @@
 {
-  "checkout.title": "Secure Checkout",
+  "app.title": "Welcome to our store",
+  "nav.home": "Home",
+  "nav.shop": "Shop",
   "cart.empty": "Your cart is empty",
-  "button.submit": "Submit Order"
+  "checkout.title": "Secure Checkout",
+  "button.add_to_cart": "Add to cart",
+  "button.submit_order": "Submit order",
+  "msg.thanks": "Thanks for your purchase"
 }
