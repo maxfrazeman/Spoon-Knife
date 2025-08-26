@@ -1,0 +1,30 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Demo 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: en\n"
+
+#: i18n/messages.po
+msgid "app.title"
+msgstr "app.titel"
+
+msgid "nav.home"
+msgstr "nav.startseite"
+
+msgid "nav.shop"
+msgstr "nav.shop"
+
+msgid "cart.empty"
+msgstr "warenkorb.leer"
+
+msgid "checkout.title"
+msgstr "kasse.titel"
+
+msgid "button.add_to_cart"
+msgstr "button.add_to_cart"
+
+msgid "button.submit_order"
+msgstr "button.submit_order"
+
+msgid "msg.thanks"
+msgstr "msg.danke"
